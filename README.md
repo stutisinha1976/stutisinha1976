@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/@ssinha34049" target="blank"><img src="https://img.shields.io/twitter/follow/@ssinha34049?logo=twitter&style=for-the-badge" alt="@ssinha34049" /></a> </p>
 
-- 🔭 I’m currently working on [Carbon Capture Buddy](https://github.com/stutisinha1976/carbon_capture_buddy)
+- 🔭 I’m currently working on [Mindcare-AI](https://github.com/stutisinha1976/mindcare-ai)
 
 - 🌱 I’m currently learning **Generative AI, Deep Learning and Python Frameworks**
 
