@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/stutisinha1976/](https://github.com/stutisinha1976/)
 
-- 💬 Ask me about **Front End Development and Machine Learning**
+- 💬 Ask me about **Web Development, DevOps, and Machine Learning**
 
 - 📫 How to reach me **stutisinha712@gmail.com**
 
